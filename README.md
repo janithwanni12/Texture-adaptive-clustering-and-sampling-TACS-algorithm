@@ -17,4 +17,3 @@ A basic understanding of Python and the MTEX toolbox is expected.
 5. Use the plot_PF_maps.m script in MATLAB to plot the data and compare results. The original EBSD dataset is required to determine the symmetry  of the dataset.  
 * More instructions are provided in the comments of the scripts. 
 
-# TACS publication
